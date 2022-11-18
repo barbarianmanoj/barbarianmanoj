@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barbarianmanoj
-- 👀 I’m interested in Javascript,Python
-- 🌱 I’m currently learning Node.Js
-- 📫 How to reach me Mobile:9894498313
+- 👀 I’m interested in Javascript,Html/Css
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me Mobile:8525884188
 
 <!---
 barbarianmanoj/barbarianmanoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
